@@ -1,0 +1,16 @@
+{
+    "name": "ilyich88/hexlet-php",
+    "description": "example package",
+    "autoload": {
+        "psr-4": {
+            "Ilyich88\\HexletPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ilya Ilyin",
+            "email": "ilyich88@gmail.com"
+        }
+    ],
+    "require": {}
+}
