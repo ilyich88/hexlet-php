@@ -12,5 +12,7 @@
             "email": "ilyich88@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "illuminate/collections": "^11.2"
+    }
 }
