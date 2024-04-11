@@ -10,5 +10,3 @@ function run()
 
     return $collection;
 }
-
-print_r(run());

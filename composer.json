@@ -2,9 +2,9 @@
     "name": "ilyich88/hexlet-php",
     "description": "example package",
     "autoload": {
-        "psr-4": {
-            "Ilyich88\\HexletPhp\\": "src/"
-        }
+        "files": [
+            "src/Runner.php"
+        ]
     },
     "authors": [
         {
